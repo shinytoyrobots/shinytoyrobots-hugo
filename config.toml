@@ -38,8 +38,8 @@ paginate = 5
     newerPosts = "Newer posts"
     olderPosts = "Older posts"
     minuteReadingTime = "min read"
-    dateFormatSingle = "2006-01-02"
-    dateFormatList = "2006-01-02"
+    dateFormatSingle = "January 2, 2006"
+    dateFormatList = "January 2, 2006"
     # leave empty to disable, enter display text to enable
     # lastModDisplay = ""
 
@@ -56,7 +56,3 @@ paginate = 5
         identifier = "about"
         name = "About"
         url = "/about"
-      [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
