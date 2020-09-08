@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scifi on Shiny Toy Robots</title>
+    
+    
+    
+    <link>/tags/scifi/</link>
+    <description>Recent content in scifi on Shiny Toy Robots</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/scifi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Science fiction or fantasy?</title>
+      <link>/posts/science-fiction-or-fantasy/</link>
+      <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/science-fiction-or-fantasy/</guid>
+      <description>
+        
+          &lt;img src=&#34;/images/cover-images/sci-fi-fantasy.jpg&#34;/&gt;
+          
+        
+        
+        
+          For some reason, these two genres are always placed together. There&#39;s not a great deal that actually connects them, though. One envisions possible futures, things that might be. The other deliberately looks beyonds the bounds of even potential reality.
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
