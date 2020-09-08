@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>drama on Shiny Toy Robots</title>
+    
+    
+    
+    <link>/tags/drama/</link>
+    <description>Recent content in drama on Shiny Toy Robots</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/drama/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Drama, familiarity, and repetition</title>
+      <link>/posts/drama-familiarity-repetition/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/drama-familiarity-repetition/</guid>
+      <description>
+        
+          &lt;img src=&#34;/images/cover-images/drama.jpg&#34;/&gt;
+          
+        
+        
+        
+          What makes something dramatic? It is less a case that some things are inherently dramatic, and more that drama stems from unfamiliarity, shock, or strangeness. Variety is dramatic.
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
