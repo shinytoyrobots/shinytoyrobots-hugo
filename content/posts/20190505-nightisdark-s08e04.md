@@ -2,7 +2,7 @@
 draft: false
 
 title: Game of Thrones, S08E04 review
-date: "2019-05-05"
+date: 2019-05-05
 description: Pretend we care about those minor characters who died! Friendzones and not friendzones! Sansa is still better! SCORPIONS!!!
 
 tags: ["television", "game of thrones"]
