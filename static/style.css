@@ -1,0 +1,6 @@
+.logo__cursor
+{
+    animation: cursor 1.75s infinite;
+    border: 1px solid white;
+    background: none;
+}
