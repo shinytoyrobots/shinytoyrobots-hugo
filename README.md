@@ -1,0 +1,1 @@
+Site built with [Hugo](https://gohugo.io/), using the [Hello Friend](https://github.com/panr/hugo-theme-hello-friend) theme.
