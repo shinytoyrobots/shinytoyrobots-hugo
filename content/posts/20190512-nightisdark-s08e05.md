@@ -2,7 +2,7 @@
 draft: false
 
 title: Game of Thrones, S08E05 review
-date: 2019-05-19
+date: 2019-05-12
 description: Continuity? That's so not last week...or this week. Do dragons work properly again? Is there a  white dove to go with that slow motion? Stupidity upon stupidity. Drogon ex machina. 
 
 tags: ["television", "game of thrones"]
