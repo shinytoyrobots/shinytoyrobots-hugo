@@ -8,6 +8,7 @@ description: In the 1920s and 1930s the US reacted to break up the monopoly and 
 tags: ["politics","economics","inequality"]
 
 cover: "/images/cover-images/oligarchy-money.jpg"
+coverAlt: "A gaming miniature with a shield and a gun, standing on Canadian, Chinese, and British banknotes"
 
 slug: "oligarchy-or-corporate-control"
 ---
