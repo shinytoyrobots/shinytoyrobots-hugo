@@ -1,11 +1,14 @@
 ---
-draft: true
+draft: false
 
 title: A story of a shipwreck
 date: 2020-09-09
 description: Cast adrift from their ship somehow, three crewmates seek succour. Perhaps a nearby island will bring shelter, and new discoveries.
 
 tags: ["fiction", "writing", "pirates"]
+
+cover: "/images/cover-images/pirate-story.jpg"
+coverAlt: "A miniature figure waving a gun and a chainsword, in front of a pewter goblet with a squid shaped handle"
 
 slug: shipwreck-story
 ---
