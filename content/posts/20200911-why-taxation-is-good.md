@@ -9,6 +9,8 @@ tags: ["politics","economics"]
 
 cover: "/images/cover-images/taxation.jpg"
 coverAlt: "A miniature of a Warhammer 40k Necron standing on a W2 form"
+images:
+    - "/images/cover-images/taxation.jpg"
 
 slug: why-taxation-can-be-good
 ---
