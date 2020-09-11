@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 
 title: Why taxation can be good
 date: 2020-09-11
