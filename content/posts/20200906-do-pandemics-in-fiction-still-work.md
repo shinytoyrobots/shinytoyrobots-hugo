@@ -9,6 +9,8 @@ tags: ["covid","fiction"]
 
 cover: "/images/cover-images/pandemic-mask.jpg"
 coverAlt: "A small roleplaying miniature placed on a full-sized facemask"
+images:
+    - "/images/cover-images/pandemic-mask.jpg"
 
 slug: "pandemics-in-fiction"
 ---

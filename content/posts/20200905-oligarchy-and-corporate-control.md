@@ -9,6 +9,8 @@ tags: ["politics","economics","inequality"]
 
 cover: "/images/cover-images/oligarchy-money.jpg"
 coverAlt: "A gaming miniature with a shield and a gun, standing on Canadian, Chinese, and British banknotes"
+images:
+    - "/images/cover-images/oligarchy-money.jpg"
 
 slug: "oligarchy-or-corporate-control"
 ---

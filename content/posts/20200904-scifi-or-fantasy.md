@@ -9,6 +9,8 @@ tags: ["fiction","scifi"]
 
 cover: "/images/cover-images/sci-fi-fantasy.jpg"
 coverAlt: "A gaming miniature standing between two books, one fantasy and one sci-fi"
+images:
+    - "/images/cover-images/sci-fi-fantasy.jpg"
 
 slug: "science-fiction-or-fantasy"
 ---

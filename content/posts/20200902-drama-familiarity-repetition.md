@@ -9,6 +9,8 @@ tags: ["drama"]
 
 cover: "/images/cover-images/drama.jpg"
 coverAlt: "A gaming miniature figure standing on top of a picture of Shakespeare"
+images:
+    - "/images/cover-images/drama.jpg"
 
 slug: "drama-familiarity-repetition"
 ---
