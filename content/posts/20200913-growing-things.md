@@ -3,7 +3,7 @@ draft: false
 
 title: Growing things
 date: 2020-09-14
-description: To follow
+description: I was already developing a gardening hobby pre-pandemic. But during this lockdown period, I've really learned some more of the mental and physical benefits of growing things.
 
 tags: ["gardening","covid"]
 
