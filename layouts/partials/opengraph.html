@@ -5,8 +5,9 @@
 {{- $images := $.Resources.ByType "image" -}}
 {{- $cover := $.Params.Cover -}}
 {{- $slug := .Permalink -}}
+{{- $site := "http://shinytoyrobots.com" -}}
 {{- with $cover -}}
-<meta property="og:image" content="{{ $slug }}{{ $cover }}"/>
+<meta property="og:image" content="{{ $site }}{{ $slug }}{{ $cover }}"/>
 {{ end }}
 
 {{- $iso8601 := "2006-01-02T15:04:05-07:00" -}}
