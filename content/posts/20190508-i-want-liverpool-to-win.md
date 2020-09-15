@@ -1,8 +1,13 @@
 ---
+draft: false
+
 title: I want Liverpool to win the Premier League
 date: 2019-05-08
 description: I'm an Everton fan, I hate Liverpool. But being Liverpool is nothing compared to Manchester City's existence as a vehicle to sportswash human rights abuse.
+
 tags: ["sport", "soccer", "politics"]
+
+slug: i-want-liverpool-to-win
 ---
 
 Last night Liverpool pulled off an amazing comeback in the Champions' League semi-final. They turned around a 3-0 first-leg deficit with a 4-0 win at Anfield against Barcelona.
