@@ -7,7 +7,8 @@ description: I was already developing a gardening hobby pre-pandemic. But during
 
 tags: ["gardening","covid"]
 
-cover: "/images/cover-images/growing-things.jpg"
+cover: growing-things.jpg
+useRelativeCover: true
 coverAlt: "A miniature of a Warhammer 40k cultist, standing on a trowel, in front of a mint plant"
 images:
     - "/images/cover-images/growing-things.jpg"
