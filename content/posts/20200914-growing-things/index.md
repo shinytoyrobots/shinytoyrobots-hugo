@@ -10,8 +10,6 @@ tags: ["gardening","covid"]
 cover: growing-things.jpg
 useRelativeCover: true
 coverAlt: "A miniature of a Warhammer 40k cultist, standing on a trowel, in front of a mint plant"
-images:
-    - "growing-things.jpg"
 
 slug: growing-things
 ---
