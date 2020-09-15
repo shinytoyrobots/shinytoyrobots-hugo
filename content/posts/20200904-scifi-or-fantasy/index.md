@@ -7,10 +7,9 @@ description: For some reason, these two genres are always placed together. There
 
 tags: ["fiction","scifi"]
 
-cover: "/images/cover-images/sci-fi-fantasy.jpg"
+cover: "sci-fi-fantasy.jpg"
+useRelativeCover: true
 coverAlt: "A gaming miniature standing between two books, one fantasy and one sci-fi"
-images:
-    - "/images/cover-images/sci-fi-fantasy.jpg"
 
 slug: "science-fiction-or-fantasy"
 ---
