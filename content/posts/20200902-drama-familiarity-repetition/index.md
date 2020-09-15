@@ -7,10 +7,9 @@ description: What makes something dramatic? It is less a case that some things a
 
 tags: ["drama"]
 
-cover: "/images/cover-images/drama.jpg"
+cover: "drama.jpg"
+useRelativeCover: true
 coverAlt: "A gaming miniature figure standing on top of a picture of Shakespeare"
-images:
-    - "/images/cover-images/drama.jpg"
 
 slug: "drama-familiarity-repetition"
 ---

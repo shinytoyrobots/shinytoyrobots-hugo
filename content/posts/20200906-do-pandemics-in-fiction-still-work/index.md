@@ -7,10 +7,9 @@ description: We're living in a global pandemic. And pandemics, plagues, and apoc
 
 tags: ["covid","fiction"]
 
-cover: "/images/cover-images/pandemic-mask.jpg"
+cover: pandemic-mask.jpg
+useRelativeCover: true
 coverAlt: "A small roleplaying miniature placed on a full-sized facemask"
-images:
-    - "/images/cover-images/pandemic-mask.jpg"
 
 slug: "pandemics-in-fiction"
 ---

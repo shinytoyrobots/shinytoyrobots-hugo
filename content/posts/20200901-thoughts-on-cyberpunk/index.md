@@ -7,10 +7,9 @@ description: Reflections on what cyberpunk stories written today are supposed to
 
 tags: ["cyberpunk","fiction"]
 
-cover: "/images/cover-images/cyberpunk.jpg"
+cover: "cyberpunk.jpg"
+useRelativeCover: true
 coverAlt: "An athletic looking gaming miniature, with pink hair, standing on a Tim Doyle art piece of Blade Runner"
-images:
-    - "/images/cover-images/cyberpunk.jpg"
 
 slug: "thoughts-on-cyberpunk"
 ---

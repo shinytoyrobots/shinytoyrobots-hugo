@@ -7,10 +7,10 @@ description: Cast adrift from their ship somehow, three crewmates seek succour. 
 
 tags: ["fiction", "writing", "pirates"]
 
-cover: "/images/cover-images/pirate-story.jpg"
+cover: pirate-story.jpg
+useRelativeCover: true
 coverAlt: "A miniature figure waving a gun and a chainsword, in front of a pewter goblet with a squid shaped handle"
-images:
-    - "/images/cover-images/pirate-story.jpg"
+
 
 slug: shipwreck-story
 ---
