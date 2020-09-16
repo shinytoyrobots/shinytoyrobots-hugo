@@ -2,7 +2,7 @@
 {{- $socialImage := $.Params.SocialImage -}}
 {{- $socialImageAlt := $.Params.CoverAlt -}}
 {{- $slug := .Permalink -}}
-{{- $site := "http://shinytoyrobots.com" -}}
+{{- $site := "https://shinytoyrobots.com" -}}
 {{- with $socialImage -}}
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="{{ $site }}{{ $slug }}{{ $socialImage }}"/>
