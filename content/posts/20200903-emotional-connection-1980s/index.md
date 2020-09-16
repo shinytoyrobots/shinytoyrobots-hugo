@@ -10,6 +10,7 @@ tags: ["80s","culture"]
 cover: "eighties.jpg"
 useRelativeCover: true
 coverAlt: "A gaming miniature figurine standing on a vinyl record of Frankie Goes to Hollywood's 'Two Tribes'"
+socialImage: eighties-social.jpg
 
 slug: "emotional-connection-of-the-1980s"
 ---

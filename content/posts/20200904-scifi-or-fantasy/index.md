@@ -10,6 +10,7 @@ tags: ["fiction","scifi"]
 cover: "sci-fi-fantasy.jpg"
 useRelativeCover: true
 coverAlt: "A gaming miniature standing between two books, one fantasy and one sci-fi"
+socialImage: sci-fi-fantasy-social.jpg
 
 slug: "science-fiction-or-fantasy"
 ---

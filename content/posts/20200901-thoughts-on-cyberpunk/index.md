@@ -10,6 +10,7 @@ tags: ["cyberpunk","fiction"]
 cover: "cyberpunk.jpg"
 useRelativeCover: true
 coverAlt: "An athletic looking gaming miniature, with pink hair, standing on a Tim Doyle art piece of Blade Runner"
+socialImage: cyberpunk-social.jpg
 
 slug: "thoughts-on-cyberpunk"
 ---
