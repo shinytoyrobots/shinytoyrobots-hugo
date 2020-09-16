@@ -10,7 +10,7 @@ tags: ["fiction", "writing", "pirates"]
 cover: pirate-story.jpg
 useRelativeCover: true
 coverAlt: "A miniature figure waving a gun and a chainsword, in front of a pewter goblet with a squid shaped handle"
-
+socialImage: pirate-story-social.jpg
 
 slug: shipwreck-story
 ---

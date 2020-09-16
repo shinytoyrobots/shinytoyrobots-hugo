@@ -10,6 +10,7 @@ tags: ["covid","fiction"]
 cover: pandemic-mask.jpg
 useRelativeCover: true
 coverAlt: "A small roleplaying miniature placed on a full-sized facemask"
+socialImage: pandemic-mask-social.jpg
 
 slug: "pandemics-in-fiction"
 ---

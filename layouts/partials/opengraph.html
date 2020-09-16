@@ -3,11 +3,13 @@
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
 {{- $images := $.Resources.ByType "image" -}}
-{{- $cover := $.Params.Cover -}}
+{{- $socialImage := $.Params.SocialImage -}}
+{{- $socialImageAlt := $.Params.CoverAlt -}}
 {{- $slug := .Permalink -}}
 {{- $site := "http://shinytoyrobots.com" -}}
-{{- with $cover -}}
-<meta property="og:image" content="{{ $site }}{{ $slug }}{{ $cover }}"/>
+{{- with $socialImage -}}
+<meta property="og:image" content="{{ $site }}{{ $slug }}{{ $socialImage }}"/>
+<meta property="og:image:alt" content="{{ $socialImageAlt }}"/>
 {{ end }}
 
 {{- $iso8601 := "2006-01-02T15:04:05-07:00" -}}
