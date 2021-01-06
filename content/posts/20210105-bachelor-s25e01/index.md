@@ -320,12 +320,15 @@ Do you need to say another fucking prayer, Matt?
 "These are the woman whose names I've managed to remember..."
 
 Marie...deserves it for a pretty colored dress
+
 Rachael...for the same dress in a darker green, minus points for pretending to cry about the prayer
 
 YOU ARE NOT GOING TO FIND YOUR WIFE HERE
 
 Chelsea...she's lovely
+
 Sarah Symmetrical...bland but unsurprising
+
 MJ...is the rose for the vibrator or the contestant?
 
 Serena resting bitch face...I think maybe you'll go home, too...
