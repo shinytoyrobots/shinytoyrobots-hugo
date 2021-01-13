@@ -1,7 +1,7 @@
 ---
 draft: false
 
-title: "Starring Chris Harrison as Roseboy - The Bachelor Hatewatch S25E01"
+title: "Starring Chris Harrison as Roseboy - The Bachelor Hatewatch S25E02"
 date: 2021-01-05
 description: A few years ago I'd never seen an episode of The Bachelor. I've since found myself accidentally watching it a few times. Now, rather than just randomly shouting at this heinous, medieval, piece of trash, I thought I'd share my ire with the world (25 seasons in, so really getting to that party on time!).
 
