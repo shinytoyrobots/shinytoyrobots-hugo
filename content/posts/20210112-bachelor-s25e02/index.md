@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 
 title: "Starring Chris Harrison as Roseboy - The Bachelor Hatewatch S25E02"
 date: 2021-01-12
