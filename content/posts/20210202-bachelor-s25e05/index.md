@@ -83,7 +83,7 @@ And he kicks Anna out!
 
 It's played as something tragic, but it's really not. It was sex work shaming, it was bullying, it was despicable behavior from Anna.
 
-The Bachelor is using #METOO as a way to boost its ratings.
+The Bachelor is using bullying and slut shaming to boost ratings.
 
 On a less serious note...is Anna's outfit supposed to be from a disco scene from the 1970s Buck Rogers show?
 
