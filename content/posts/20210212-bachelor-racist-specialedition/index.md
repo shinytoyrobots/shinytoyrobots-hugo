@@ -3,7 +3,7 @@ draft: false
 
 title: "Starring Chris Harrison as Roseboy - Special Racism Edition"
 date: 2021-02-12
-description: Something
+description: Rachael K has some sketchy racist pics and posts. Chris Harrison gives a car crash interview to former Bachelorette Rachel Lindsay, where he attempts to defend this. He doesn't like wokeness, that's for sure.
 
 tags: ["bachelor","reality","hatewatch"]
 
