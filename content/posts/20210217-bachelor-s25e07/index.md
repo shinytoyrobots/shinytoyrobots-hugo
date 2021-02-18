@@ -3,7 +3,7 @@ draft: false
 
 title: "Starring Chris Harrison as Roseboy - The Bachelor Hatewatch S25E07"
 date: 2021-02-17
-description: "'Like, bitch, what are you doing?' Confederacy Rachel keeps truckin'. Heather drives herself. More great boots. Distracting from Texas' icepocalypse. "
+description: "'Like, bitch, what are you doing?' Confederacy Rachel keeps truckin'. Heather drives herself. More great boots. More bad kissing. Distracting from Texas' icepocalypse. "
 
 tags: ["bachelor","reality","hatewatch"]
 
