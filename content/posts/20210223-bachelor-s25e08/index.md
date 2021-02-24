@@ -9,8 +9,8 @@ tags: ["bachelor","reality","hatewatch"]
 
 cover: homestay.jpg
 useRelativeCover: true
-coverAlt: homestay-social.jpg
-socialImage: "Chris' floating head asking the correct grammar for 'home stay', and Matt's floating head wondering when he 'gets to bang', overlaid over image of the 1960s Addams Family"
+coverAlt: "Chris' floating head asking the correct grammar for 'home stay', and Matt's floating head wondering when he 'gets to bang', overlaid over image of the 1960s Addams Family"
+socialImage: homestay-social.jpg
 
 slug: "bachelor-hatewatch-s25e08"
 ---
