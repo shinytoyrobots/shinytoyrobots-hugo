@@ -1,7 +1,7 @@
 ---
 draft: false
 
-title: "Starring Chris Harrison as Roseboy - The Bachelor Hatewatch S25E11"
+title: "Starring Chris Harrison as Roseboy - The Bachelor Hatewatch S25E12"
 date: 2021-03-19
 description: Everything is a bit awkward. Emmanuel is very sharply dressed. Michelle is still sad. It's worthy, but not so funny. Rachael dodges. Matt's beard is glistening.
 
